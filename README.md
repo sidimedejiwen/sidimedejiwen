@@ -24,5 +24,14 @@
 
 <br>
 <div align=center>
+<!--   <table> -->
+<!--       <tr> -->
+<!--           <td> -->
   <img align=center src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=sidimedejiwen&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+<!--           </td> -->
+<!--           <td> -->
+<!--               <img src="https://leetcode-status.vercel.app/api/numb3r5?theme=dark&border=false&hide_title=false&custom_title=Sidi%20Mohamed%20Ejiwen" /> -->
+<!--           </td> -->
+<!--       </tr> -->
+<!--   </table> -->
 </div>
